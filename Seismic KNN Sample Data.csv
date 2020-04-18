@@ -1,0 +1,13 @@
+﻿Exercise Id,Exercise Name,Volume,Highest Avg Load,Phase
+0,Bicycle Crunches,75,0,1
+1,Knee Push Ups,80,40,1
+2,Lunges,90,30,1
+3,DB Curls,48,50,2
+4,Leg Ext,36,70,2
+5,Bb Hipthrust,40,115,2
+6,Bb Squat,30,225,3
+7,Bb Bench,20,185,3
+8,Plate Row,30,185,3
+9,Sq Jump,20,30,4
+10,Plyo Push Ups,18,20,4
+11,Mb Slam,18,50,4
